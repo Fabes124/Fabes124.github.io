@@ -12,12 +12,13 @@ redirect_from:
 Education
 ======
 * Ph.D. in Mathematics, Louisiana State University, 2025&ndash;present
+  * Working with Jerome Hoffman, Fang-Ting Tu, and Scott Baldridge
 * B.A. in Mathematics, Johns Hopkins University, 2025
 * B.S. in Physics, Johns Hopkins University, 2025
 
 Research interests
 ======
-Homotopy theory, higher algebra, algebraic number theory (class groups, Iwasawa theory, Galois cohomology), algebraic geometry, deformation theory, topological quantum field theories, and algebraic cycles.
+Number theory (class groups and Iwasawa theory, Galois cohomology and arithmetic duality, $p$-adic Hodge theory); homotopy theory (higher algebra, cobordism, motivic homotopy theory); algebraic geometry (moduli, deformation theory, algebraic cycles); topological quantum field theories over arithmetic bases.
 
 {% for category in site.publication_category %}
 {% assign items = site.publications | where: "category", category[0] %}
