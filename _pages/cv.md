@@ -17,19 +17,23 @@ Education
 
 Research interests
 ======
-Homotopy theory, higher algebra, topological quantum field theories, algebraic geometry, deformation theory, motivic homotopy theory, and algebraic cycles.
+Homotopy theory, higher algebra, algebraic number theory (class groups, Iwasawa theory, Galois cohomology), algebraic geometry, deformation theory, topological quantum field theories, and algebraic cycles.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+{% for category in site.publication_category %}
+{% assign items = site.publications | where: "category", category[0] %}
+{% if items.size > 0 %}
+<h1>{{ category[1].title }}</h1>
+<ul>{% for post in items reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+{% endif %}
+{% endfor %}
 
 Research experience
 ======
 * **Topological quantum field theories over algebraic field extensions**, Johns Hopkins University, 2024&ndash;2025
   * Mentors: Mikhail Khovanov and Mee Seong Im
-  * Frobenius algebra structures over Dedekind domains via projective modules; led to the paper above.
+  * Frobenius algebra structures over Dedekind domains via projective modules; led to the paper listed above.
 * **Drinfeld centers of fusion 2-categories**, Johns Hopkins University, 2024
   * Mentor: Thomas Waddleton (Ibou Bah's group)
   * Computed Drinfeld centers of fusion 2-categories and studied their Morita equivalence classes.

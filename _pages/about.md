@@ -7,17 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in mathematics at [Louisiana State University](https://www.math.lsu.edu/). I think of myself as part homotopy theorist and part algebraic geometer, and I am most interested in the places where the two meet.
+I am a second-year PhD student in mathematics at [Louisiana State University](https://www.math.lsu.edu/). I work on problems where homotopy theory, algebraic geometry, and number theory meet. Recently I have been studying two-dimensional topological quantum field theories over algebraic curves and rings of integers, and how their structure reflects the arithmetic of the base.
 
-Before coming to LSU, I studied at [Johns Hopkins University](https://www.jhu.edu/), where I earned a B.A. in Mathematics and a B.S. in Physics in 2025. As an undergraduate I worked with [Mikhail Khovanov](https://www.math.columbia.edu/~khovanov/) and [Mee Seong Im](https://sites.google.com/site/meeseongim/) on two-dimensional topological quantum field theories over rings of integers of number fields, which led to my first [paper](/publications/).
+I received a B.A. in Mathematics and a B.S. in Physics from [Johns Hopkins University](https://www.jhu.edu/) in 2025.
 
 Research interests
 ======
 
 * Homotopy theory and higher algebra
-* Topological quantum field theories and higher categories
+* Algebraic number theory: class groups, Iwasawa theory, and Galois cohomology
 * Algebraic geometry, moduli, and deformation theory
-* Motivic homotopy theory and algebraic cycles
+* Topological quantum field theories
+* Motives and algebraic cycles
 
 Contact
 ======
