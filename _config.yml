@@ -23,7 +23,7 @@ repository               : "Fabes124/Fabes124.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Fabian Espinoza de Osambela"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in mathematics. Homotopy theory, algebraic geometry, and number theory."
