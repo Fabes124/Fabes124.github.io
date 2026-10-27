@@ -18,7 +18,7 @@ Education
 
 Research interests
 ======
-Arithmetic geometry (curves, Jacobians and Prym varieties; Iwasawa theory; $p$-adic Hodge theory and syntomic cohomology); homotopy theory (motivic and chromatic homotopy theory, higher algebra); algebraic geometry (moduli, deformation theory, formal moduli problems); the Langlands program (automorphic forms; field-theoretic approaches to Langlands duality).
+Arithmetic geometry (curves, Jacobians and Prym varieties; Iwasawa theory; $p$-adic Hodge theory and syntomic cohomology); algebraic geometry (moduli, deformation theory, formal moduli problems); the Langlands program (automorphic forms and duality, as tools for arithmetic geometry); homotopy theory (motivic and chromatic homotopy theory, higher algebra); mathematical physics (topological quantum field theories; electric–magnetic duality and geometric Langlands).
 
 {% for category in site.publication_category %}
 {% assign items = site.publications | where: "category", category[0] | sort: "order", "last" %}
