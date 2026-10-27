@@ -18,13 +18,13 @@ Education
 
 Research interests
 ======
-Number theory (class groups and Iwasawa theory, Galois cohomology and arithmetic duality, $p$-adic Hodge theory); homotopy theory (higher algebra, cobordism, motivic homotopy theory); algebraic geometry (moduli, deformation theory, algebraic cycles); topological quantum field theories over arithmetic bases.
+Arithmetic geometry of curves, Jacobians and Prym varieties; class groups and Iwasawa theory; Hodge theory and $p$-adic Hodge theory; Frobenius algebras and 2D TQFTs over arithmetic bases; homotopy theory (motivic, chromatic, and $\infty$-categorical methods).
 
 {% for category in site.publication_category %}
-{% assign items = site.publications | where: "category", category[0] %}
+{% assign items = site.publications | where: "category", category[0] | sort: "order", "last" %}
 {% if items.size > 0 %}
 <h1>{{ category[1].title }}</h1>
-<ul>{% for post in items reversed %}
+<ul>{% for post in items %}
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
 {% endif %}

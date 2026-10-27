@@ -7,19 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student in mathematics at [Louisiana State University](https://www.math.lsu.edu/), where I work with Jerome Hoffman, Fang-Ting Tu, and Scott Baldridge.
+I’m a PhD student in mathematics at [LSU](https://www.math.lsu.edu/). I work at the intersection of arithmetic geometry and homotopy theory. Most of my current research is about curves, their Jacobians and Prym varieties, and the parallel between curves and rings of integers, approached through Frobenius algebras and 2D TQFTs, class groups and Iwasawa theory, and Hodge and $p$-adic Hodge theory. I’m also building toward homotopical methods in arithmetic geometry (formal moduli problems, motivic and chromatic homotopy theory), with the Langlands program as a guiding picture of how number theory and geometry fit together.
 
-I work on problems where homotopy theory, algebraic geometry, and number theory meet. My current projects study two-dimensional topological quantum field theories over Dedekind schemes, such as algebraic curves and rings of integers. Over a number field, these structures are controlled by torsion in the class group, which leads naturally to questions in Iwasawa theory about how that torsion behaves in towers of number fields.
-
-I received a B.A. in Mathematics and a B.S. in Physics from [Johns Hopkins University](https://www.jhu.edu/) in 2025.
+At LSU I work with Jerome Hoffman, Fang-Ting Tu, and Scott Baldridge. I received a B.A. in Mathematics and a B.S. in Physics from [Johns Hopkins University](https://www.jhu.edu/) in 2025.
 
 Research interests
 ======
 
-* **Number theory:** class groups and Iwasawa theory, Galois cohomology and arithmetic duality, and $p$-adic Hodge theory
-* **Homotopy theory:** higher algebra, cobordism, and motivic homotopy theory
-* **Algebraic geometry:** moduli, deformation theory, and algebraic cycles
-* **Topological quantum field theories**, especially over arithmetic bases
+* Arithmetic geometry of curves, Jacobians and Prym varieties
+* Class groups and Iwasawa theory
+* Hodge theory and $p$-adic Hodge theory
+* Frobenius algebras and 2D TQFTs over arithmetic bases
+* Homotopy theory: motivic, chromatic, and $\infty$-categorical methods
 
 Contact
 ======
