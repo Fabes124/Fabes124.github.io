@@ -7,7 +7,7 @@ excerpt: 'A tour of basic homotopy theory guided by the homotopy groups of spher
 date: 2026-10-24
 venue: 'Expository note'
 paperurl: '/files/spheres-homotopy.pdf'
-citation: 'F. Espinoza de Osambela. &quot;Spheres and homotopy theory.&quot; Expository note, 2026.'
+citation: 'F. Espinoza de Osambela. &quot;Spheres and homotopy theory.&quot; Expository note, originally a course project; revised 2026.'
 order: 2
 ---
 

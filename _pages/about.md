@@ -7,24 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-I’m a PhD student in mathematics at [Louisiana State University](https://www.math.lsu.edu/), where I work with Jerome Hoffman, Fang-Ting Tu, and Scott Baldridge. I am a geometer at heart: most of the questions I care about concern algebraic curves, their Jacobians, and their arithmetic.
+I'm a PhD student in mathematics at [Louisiana State University](https://www.math.lsu.edu/), where I work with Jerome Hoffman, Fang-Ting Tu, and Scott Baldridge. I'm interested in arithmetic geometry in mixed characteristic: curves and rings of integers, the $p$-adic cohomology theories that describe them, and the homotopical methods, such as topological cyclic homology and spectral algebraic geometry, that now underlie those theories.
 
-My current projects study self-dual algebraic structures (Frobenius algebras, or equivalently two-dimensional TQFTs) over curves and over rings of integers. On a curve these structures are controlled by torsion in the Jacobian and by spin structures; over a number field they are controlled by the class group, and following them up towers of number fields leads to Iwasawa theory and syntomic cohomology. In a related project I construct genus-2 curves whose Jacobians split, through explicit elliptic subcovers.
+My current work studies self-dual algebras (commutative Frobenius algebras, equivalently two-dimensional TQFTs) over Dedekind schemes. These structures are controlled by torsion in the Picard group. On curves of genus at least two they are rigid and tied to spin structures, and over a ring of integers they are governed by the class group. A sequel follows this class-group torsion up a $\mathbb{Z}_2$-extension, where it becomes a question in Iwasawa theory. My master's thesis studies syntomic cohomology, which places these class-group invariants in a $p$-adic setting connected to prismatic cohomology and topological cyclic homology. Separately, with Fang-Ting Tu and Jerome Hoffman, I construct genus-2 curves whose Jacobians split, through explicit elliptic subcovers.
 
-In the longer term, I want to use the Langlands program and homotopy theory to answer questions in arithmetic geometry. I am especially interested in automorphic forms and duality as tools for studying curves and their Jacobians, and in homotopical methods, such as formal moduli problems and motivic and chromatic homotopy theory, for organizing the cohomology theories that appear along the way.
-
-Much of my motivation comes from physics. I came to algebraic geometry through string theory, and to the Langlands program through electric–magnetic duality, which in the work of Kapustin and Witten becomes geometric Langlands duality. The two-dimensional TQFTs in my current research are one place where that connection is concrete.
-
-I received a B.A. in Mathematics and a B.S. in Physics from [Johns Hopkins University](https://www.jhu.edu/) in 2025.
+I received a B.A. in Mathematics and Physics (double major) from [Johns Hopkins University](https://www.jhu.edu/) in 2025, where I wrote my first paper with Mee Seong Im and Mikhail Khovanov.
 
 Research interests
 ======
 
-* **Arithmetic geometry:** curves, Jacobians and Prym varieties; Iwasawa theory; $p$-adic Hodge theory and syntomic cohomology
-* **Algebraic geometry:** moduli and deformation theory, formal moduli problems
-* **Langlands program:** automorphic forms and duality, as tools for arithmetic geometry
-* **Homotopy theory:** motivic and chromatic homotopy theory, higher algebra
-* **Mathematical physics:** topological quantum field theories; electric–magnetic duality and geometric Langlands
+* **Arithmetic geometry:** curves and their Jacobians, class groups, Iwasawa theory
+* **$p$-adic Hodge theory:** syntomic and prismatic cohomology
+* **Homotopy theory:** spectral algebraic geometry, topological Hochschild and cyclic homology
+* **Automorphic forms** and the Langlands program
 
 Contact
 ======

@@ -16,4 +16,4 @@ Courses:
 * 110.311 Methods of Complex Analysis (Fall 2024)
 * 110.302 Differential Equations and Applications (Spring 2025)
 
-I led weekly problem-solving sections, wrote and revised quizzes, ran midterm and final review sessions, and graded homework, quizzes, and exams.
+I led weekly problem-solving sections, wrote and revised quizzes, ran midterm and final review sessions, and graded homework, quizzes, and exams. I received the mathematics department's undergraduate teaching award for my graduating class.

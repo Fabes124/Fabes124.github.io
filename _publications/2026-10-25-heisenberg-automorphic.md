@@ -3,11 +3,11 @@ title: "Automorphic forms on the Heisenberg group"
 collection: publications
 category: expository
 permalink: /publication/heisenberg-automorphic
-excerpt: 'A complete, explicit decomposition of $L^2(\Gamma\backslash H)$ for the integer Heisenberg group, with theta series as intertwiners, classical theta function identities as consequences, and an adelic explanation of the multiplicities.'
+excerpt: 'An explicit decomposition of $L^2(\Gamma\backslash H)$ for the integer Heisenberg group, with theta series as intertwiners, classical theta function identities as consequences, and an adelic explanation of the multiplicities.'
 date: 2026-10-25
 venue: 'Expository note'
 paperurl: '/files/heisenberg-automorphic.pdf'
-citation: 'F. Espinoza de Osambela. &quot;Automorphic forms on the Heisenberg group.&quot; Expository note, 2026.'
+citation: 'F. Espinoza de Osambela. &quot;Automorphic forms on the Heisenberg group.&quot; Expository note, originally a course project; revised 2026.'
 order: 1
 ---
 
