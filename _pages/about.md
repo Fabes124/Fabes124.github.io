@@ -16,7 +16,7 @@ I received a B.A. in Mathematics and Physics (double major) from [Johns Hopkins 
 Research interests
 ======
 
-* **Arithmetic geometry:** curves and their Jacobians, class groups, Iwasawa theory
+* **Arithmetic geometry:** moduli of curves and their Jacobians, class groups, Iwasawa theory
 * **$p$-adic Hodge theory:** syntomic and prismatic cohomology
 * **Homotopy theory:** spectral algebraic geometry, topological Hochschild and cyclic homology
 * **Automorphic forms** and the Langlands program
@@ -26,4 +26,4 @@ Contact
 
 The best way to reach me is by email at **fespin3 [at] lsu [dot] edu**.
 
-My CV is available [here](/cv/).
+My CV is available [here](/files/Espinoza_de_Osambela_CV.pdf).
