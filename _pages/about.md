@@ -13,7 +13,7 @@ My current work began with a question from topology. A two-dimensional topologic
 
 The same idea makes sense in number theory, where a ring of integers plays the role of the curve. In joint work with Sabrina Jia, the questions there become ones about ideal class groups and how ideal classes behave in towers of number fields. Separately, with Fang-Ting Tu and Jerome Hoffman, I construct explicit curves of genus two that cover elliptic curves.
 
-I'm also interested in $p$-adic cohomology and in the homotopical methods behind it. My master's thesis is on syntomic cohomology.
+My master's thesis takes these covers in two further directions. It asks which of them come from fully extended field theories, a question from homotopy theory, and it studies the finer invariants that syntomic and prismatic cohomology attach to them.
 
 I received a B.A. in Mathematics and Physics (double major) from [Johns Hopkins University](https://www.jhu.edu/) in 2025, where I wrote my first paper with Mee Seong Im and Mikhail Khovanov.
 
