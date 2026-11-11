@@ -7,7 +7,7 @@ venue: 'In preparation'
 excerpt: "With Fang-Ting Tu and Jerome Hoffman. Explicit constructions of degree-$n$ elliptic subcovers via Mestre's invariant theory."
 citation: 'F. Espinoza de Osambela, J. Hoffman, and F.-T. Tu. &quot;Genus-2 curves with elliptic subcovers.&quot; In preparation.'
 category: inprep
-order: 3
+order: 4
 ---
 
 Joint work with Fang-Ting Tu and Jerome Hoffman.
