@@ -18,8 +18,9 @@ I received a B.A. in Mathematics and Physics (double major) from [Johns Hopkins 
 Research interests
 ======
 
-* **Algebraic and arithmetic geometry of curves:** moduli of curves and of their covers; spin curves, theta characteristics and Prym varieties; class groups and Selmer groups
-* **$p$-adic Hodge theory:** syntomic and prismatic cohomology
+* **Moduli problems in algebraic geometry:** curves and their covers; spin curves, theta characteristics and Prym varieties; Higgs bundles and local systems; derived moduli and deformation theory
+* **$p$-adic geometry:** prismatic and syntomic cohomology; prismatization
+* **Arithmetic of curves and number rings:** class groups; genus-two curves and their maps to elliptic curves
 * **Homotopy theory:** functorial field theories; motivic homotopy theory and hermitian K-theory; trace methods (topological Hochschild and cyclic homology); formal moduli problems
 
 Contact
