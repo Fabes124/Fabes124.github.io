@@ -11,7 +11,7 @@ I'm a PhD student in mathematics at [Louisiana State University](https://www.mat
 
 My current work began with a question from topology. A two-dimensional topological quantum field theory is the same thing as a commutative Frobenius algebra, and I wanted to know what such a structure looks like when it is spread out over an algebraic curve. The answer turns out to be a geometric object: a cover of the curve whose canonical bundle is trivial. I call these K-trivial covers. Classifying them leads into the classical geometry of curves, and theta characteristics, spin curves and Prym varieties all appear in the answer.
 
-The same idea makes sense in number theory, where a ring of integers plays the role of the curve. In joint work with Sabrina Jia, the questions there become ones about ideal class groups and how ideal classes behave in towers of number fields. Separately, with Fang-Ting Tu and Jerome Hoffman, I construct explicit curves of genus two that cover elliptic curves.
+The same idea makes sense in number theory, where a ring of integers plays the role of the curve. In joint work with Sabrina Jia, the questions there become ones about ideal class groups and how ideal classes behave in towers of number fields. Separately, with Fang-Ting Tu, I construct explicit curves of genus two that cover elliptic curves.
 
 I received a B.A. in Mathematics and Physics (double major) from [Johns Hopkins University](https://www.jhu.edu/) in 2025, where I wrote my first paper with Mee Seong Im and Mikhail Khovanov.
 
@@ -21,7 +21,7 @@ Research interests
 * **Algebraic geometry:** moduli of curves and of their covers; spin curves, theta characteristics and Prym varieties; moduli of Higgs bundles and local systems
 * **Derived algebraic geometry:** deformation theory and formal moduli problems
 * **$p$-adic geometry:** prismatic and syntomic cohomology; prismatization
-* **Arithmetic:** class groups of number rings; genus-two curves and their elliptic subcovers
+* **Arithmetic:** class groups of number rings; genus-two curves and elliptic subcovers
 
 Contact
 ======
